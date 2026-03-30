@@ -1,7 +1,3 @@
-import os
-import sys
-import json
-import datetime
 
 def say_hello():
     print("Hello, world!")
