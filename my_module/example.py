@@ -1,4 +1,3 @@
-import os
 import sys
 
 def say_hello():
